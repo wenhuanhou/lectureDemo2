@@ -77,15 +77,22 @@ print(f'The weight in modern units:{kilogram} kilograms and {gram:.2f} grams.')
 import math
 import random
 
-math.pi
-random
 num1 = random.randint(0, 9)
 num2 = random.randint(0, 9)
 num3 = random.randint(0, 9)
+num4 = random.randint(0, 9)
+num5 = random.randint(0, 9)
+num6 = random.randint(0, 9)
 print(num1,num2,num3)
+print(num4,num5,num6)
 
-num4 = random.randint(1, 6)
-num5 = random.randint(1, 6)
-num6 = random.randint(1, 6)
 num7 = random.randint(1, 6)
-print(num4,num5,num6,num7)
+num8 = random.randint(1, 6)
+num9 = random.randint(1, 6)
+num10 = random.randint(1, 6)
+num11 = random.randint(1, 6)
+num12 = random.randint(1, 6)
+num13 = random.randint(1, 6)
+num14 = random.randint(1, 6)
+print(num7,num8,num9,num10)
+print(num11,num12,num13,num14)
