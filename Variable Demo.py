@@ -1,45 +1,4 @@
-
-intVarialbe=4
-floatVariable=4.5
-stringVariable= "software 1 is fun"
-
-print(intVarialbe)
-print(floatVariable)
-print(stringVariable)
-
-print(type(intVarialbe))
-print(type(floatVariable))
-print(type(stringVariable))a
-
-intvariable=int(floatVariable)
-print("here is the int version of float variable",intVariable)
-
-shareOfloan=500.50/3
-print(shareOfloan)
-print(int(shareOfloan))
-
-######
-
-num1 =int(input("enter a number: "))
-num2 =float(input("enter another number: "))
-sum = num1 + num2
-
-print(sum)
-
-#####
-
-name = input("enter your name: ")
-school = input("enter your school: ")
-
-print("you are : ", name, "and your school name is:", school)
-print(f"your name is: {name}, and your school name is: {school}")
-
-rds=float(input("enter a number:"))
-area=3.14*rds**2
-print(f"if your rds is: {rds}, the area is : {area}")
-#####
-
-# ###1###
+###1###
 user= input('enter your name: ')
 print("Hello,"+ user)
 ###2###
